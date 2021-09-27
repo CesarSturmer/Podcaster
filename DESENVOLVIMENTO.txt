@@ -1,0 +1,14 @@
+PROJETO PARA OUVIR PODCAST
+
+Vamos utilizar as seguintes tecnologias no PROJETO
+
+- SASS = https://sass-lang.com/   pre processador de css
+
+yarn add date-fns = biblioteca para data com javascript https://date-fns.org/
+
+json-server : servidor para desenvolvimento local
+
+
+SSG = SERVER SIDE GENERATION = ele carega a pagina somento conforme for definida, entao ele n fica fazendo a chamada todo momento
+
+rc - slider  lib 
