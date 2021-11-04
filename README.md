@@ -1,32 +1,28 @@
 # Podcaster
 
-<img alt="Move.it" title="Move.it" src="https://imgur.com/undefined.png"/>
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/642398435?h=70721b5dc4" width="640" height="312" frameborder="0" allowfullscreen></iframe>
-
+<img alt="Move.it" title="Move.it" src="https://imgur.com/kol33oF.png" />
+<br>
 
 # About 📃
  Podcaster desenvolvido durante #NLW5 da [Rocketseat](https://app.rocketseat.com.br).
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+<br>
 
 ## Requirements 🔧
   - [Node](https://nodejs.org/en/)
   - [Yarn](https://yarnpkg.com/getting-started/install)
-
+<br>
 
 # Tecnologias  🚀
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="next" width="70" height="70"/>
-
+  Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+  <p>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="70" height="70"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
+   <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="next" width="70" height="70"/>
+ </p>
+<br>
 
 ## Getting Started 🚀 
-
 
   Clone the project and access the folder
 
@@ -37,13 +33,14 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
   ```bash
     cd podcaster
-
     $ yarn install
     &&
     $ json-server server.json -w -d 750 -p 3333
-
   ```
+  <br>
+  
   Starter Aplication
+  
   ```bash
     npm run dev
     # or
