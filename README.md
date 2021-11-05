@@ -12,7 +12,7 @@
   - [Yarn](https://yarnpkg.com/getting-started/install)
 <br>
 
-# Tecnologias  🚀
+# Technologies  🚀
   Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   <p>
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="70" height="70"/>
