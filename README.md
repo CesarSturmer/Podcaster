@@ -7,7 +7,7 @@
  Podcaster desenvolvido durante #NLW5 da [Rocketseat](https://app.rocketseat.com.br).
 <br>
 
-## Requirements 🔧
+# Requirements 🔧
   - [Node](https://nodejs.org/en/)
   - [Yarn](https://yarnpkg.com/getting-started/install)
 <br>
