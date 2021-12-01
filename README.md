@@ -16,8 +16,7 @@
   Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   <p>
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="70" height="70"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>![68747470733a2f2f692e696d6775722e636f6d2f6b6f6c33336f462e706e67](https://user-images.githubusercontent.com/64814956/144275706-7020acc9-686a-42c4-b66e-994cf60f4f89.png)
-
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>!
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
    <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="next" width="70" height="70"/>
  </p>
